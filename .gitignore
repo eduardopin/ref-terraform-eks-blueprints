@@ -47,3 +47,5 @@ terraform.rc
 # Generated files
 builds
 __pycache__
+.codex-repo-context.json
+.env
